@@ -14,7 +14,6 @@ Este repositorio contiene un proyecto completo de análisis de datos centrado en
      - Corrección de inconsistencias
      - Renombrado de columnas para mayor claridad
      - Normalización de tipos de datos
-     - Eliminación de duplicados
 
 3. **Análisis Exploratorio de Datos (EDA)**
    - Se llevó a cabo un análisis exploratorio para entender la distribución y las relaciones dentro de los datos. Se identificaron hallazgos y patrones clave para guiar el análisis posterior.
@@ -24,7 +23,7 @@ Este repositorio contiene un proyecto completo de análisis de datos centrado en
      - Mapas de distribución global de la felicidad
      - Tendencias anuales en las puntuaciones de felicidad
      - Correlaciones entre la felicidad y factores económicos/sociales
-     - Análisis comparativo entre regiones
+     - Análisis comparativo entre 2 tipos de perfiles
 
 ## Herramientas y Tecnologías
 - **Python:** Para la limpieza de datos y exploración inicial.
@@ -37,7 +36,6 @@ El análisis proporciona una comprensión detallada de cómo diversos factores c
 
 ## Acceso
 - El dataset limpio y el código de análisis están disponibles en este repositorio.
-- Las visualizaciones de Tableau se encuentran en la carpeta `/visualizaciones` y pueden ser accedidas a través de Tableau Public.
+- Las visualizaciones de Tableau se encuentran en el archivo `Happiness_around_the_world .twb` y pueden ser accedidas a través de Tableau Public.
 
-## Conclusión
-Este proyecto ofrece valiosas perspectivas sobre los determinantes de la felicidad a nivel mundial y sirve como una base sólida para una exploración y análisis adicionales en el campo de las ciencias sociales y la economía.
+Gracias! :)
