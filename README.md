@@ -36,6 +36,6 @@ El análisis proporciona una comprensión detallada de cómo diversos factores c
 
 ## Acceso
 - El dataset limpio y el código de análisis están disponibles en este repositorio.
-- Las visualizaciones de Tableau se encuentran en el archivo `Happiness_around_the_world .twb` y pueden ser accedidas a través de Tableau Public.
+- Las visualizaciones de Tableau se encuentran en el archivo `Happiness_around_the_world .twb` y pueden ser accedidas a través de [Tableau Public](https://public.tableau.com/views/Happiness_around_the_world/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) .
 
 Gracias! :)
